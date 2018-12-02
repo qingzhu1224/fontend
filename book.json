@@ -9,8 +9,7 @@
       "theme-comscore", 
       "-lunr", 
       "-search", 
-      "search-plus", 
-      "disqus", 
+      "search-plus",
       "-highlight", 
       "prism", 
       "prism-themes", 
@@ -94,9 +93,6 @@
             "size": "small"
           }
         ]
-      }, 
-      "disqus": {
-        "shortName": "qingzhu1224"
       }, 
       "prism": {
         "css": [

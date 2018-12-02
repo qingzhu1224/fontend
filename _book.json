@@ -101,6 +101,7 @@
           }
         ]
       }, 
+      // 添加评论功能
       "disqus": {
         "shortName": "crifan"
       }, 
@@ -115,6 +116,7 @@
       "theme-default": {
         "showLevel": true
       }, 
+    //   添加捐赏功能
       "donate": {
         "alipay": "https://www.crifan.com/files/res/crifan_com/crifan_alipay_pay.jpg", 
         "title": "", 
